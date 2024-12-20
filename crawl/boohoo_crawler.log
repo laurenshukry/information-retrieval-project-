@@ -1,0 +1,659 @@
+2024-12-17 19:06:39,600 - INFO - ====== WebDriver manager ======
+2024-12-17 19:06:39,708 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 19:06:39,794 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 19:06:39,849 - INFO - There is no [mac64] chromedriver "131.0.6778.108" for browser google-chrome "131.0.6778" in cache
+2024-12-17 19:06:39,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 19:06:40,008 - INFO - WebDriver version 131.0.6778.108 selected
+2024-12-17 19:06:40,010 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-17 19:06:40,010 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/mac-arm64/chromedriver-mac-arm64.zip
+2024-12-17 19:06:40,070 - INFO - Driver downloading response is 200
+2024-12-17 19:06:40,488 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 19:06:40,607 - INFO - Driver has been saved in cache [/Users/nicola.antonio/.wdm/drivers/chromedriver/mac64/131.0.6778.108]
+2024-12-17 19:06:41,421 - INFO - WebDriver initialized successfully.
+2024-12-17 19:06:43,773 - INFO - Accessed https://it.boohoo.com/uomo/ultimi-arrivi
+2024-12-17 19:06:43,774 - INFO - Scraping Page 1...
+2024-12-17 19:06:43,783 - INFO - Product sections loaded for Page 1.
+2024-12-17 19:06:46,291 - INFO - Found 60 products on page 1.
+2024-12-17 19:06:46,291 - INFO - Extracted product: Giacca completo a monopetto Skinny Fit con trama
+2024-12-17 19:06:46,292 - INFO - Extracted product: Canotta imbottita pesante slavata Baby Fit
+2024-12-17 19:06:46,292 - INFO - Extracted product: T-shirt squadrata oversize slavata con stampa Waffle 14
+2024-12-17 19:06:46,292 - INFO - Extracted product: T-shirt oversize pesante slavata con stampa di laccetti
+2024-12-17 19:06:46,292 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 19:06:46,292 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 19:06:46,292 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 19:06:46,292 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 19:06:46,292 - INFO - Extracted product: T-shirt oversize pesante slavata con girocollo esteso
+2024-12-17 19:06:46,293 - INFO - Extracted product: T-shirt oversize pesante slavata con fiori di giglio e girocollo esteso
+2024-12-17 19:06:46,293 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 19:06:46,293 - INFO - Extracted product: T-shirt oversize pesante con Fleur De Lis e girocollo esteso
+2024-12-17 19:06:46,293 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 19:06:46,293 - INFO - Extracted product: Cappello da baseball rosso effetto smagliato con grafica stampata
+2024-12-17 19:06:46,293 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata
+2024-12-17 19:06:46,293 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 19:06:46,294 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 19:06:46,294 - INFO - Extracted product: T-shirt oversize pesante slavata Sorry con girocollo esteso
+2024-12-17 19:06:46,294 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 19:06:46,294 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 19:06:46,294 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 19:06:46,294 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata con finto doppio livello e stampa di fiamme
+2024-12-17 19:06:46,294 - INFO - Extracted product: T-shirt oversize pesante Sorry con girocollo esteso
+2024-12-17 19:06:46,295 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 19:06:46,295 - INFO - Extracted product: T-shirt squadrata oversize slavata pesante con dettagli ad anello
+2024-12-17 19:06:46,295 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 19:06:46,295 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 19:06:46,295 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 19:06:46,295 - INFO - Extracted product: Giacca Bomber squadrata rosa con stampa BM e colletto
+2024-12-17 19:06:46,295 - INFO - Extracted product: Pantaloni tuta a gamba super ampia
+2024-12-17 19:06:46,296 - INFO - Extracted product: Pantaloni tuta Worldwide con cuciture a contrasto e inserti
+2024-12-17 19:06:46,296 - INFO - Extracted product: Felpa oversize ufficiale dei Linkin Park in lavaggio con cappuccio
+2024-12-17 19:06:46,296 - INFO - Extracted product: Tuta sportiva squadrata oversize Homme con spacco sul fondo
+2024-12-17 19:06:46,296 - INFO - Extracted product: Felpa Basic con cappuccio ampio
+2024-12-17 19:06:46,296 - INFO - Extracted product: Camicia squadrata in Stretch tecnico
+2024-12-17 19:06:46,296 - INFO - Extracted product: Felpa Basic a girocollo
+2024-12-17 19:06:46,297 - INFO - Extracted product: Pantaloni Carpenter Tall rilassati in twill con vita fissa
+2024-12-17 19:06:46,297 - INFO - Extracted product: Jeans a zampa Slim Fit con strappi all over e fondo ampio
+2024-12-17 19:06:46,297 - INFO - Extracted product: Pantaloncini da allenamento Man Active Gym con tasche Cargo
+2024-12-17 19:06:46,297 - INFO - Extracted product: Jeans a zampa in denim rigido rilassati con pannelli
+2024-12-17 19:06:46,297 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 19:06:46,297 - INFO - Extracted product: Parka nero con cappuccio e finiture rimovibili in pelliccia sintetica
+2024-12-17 19:06:46,297 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 19:06:46,298 - INFO - Extracted product: Boxer Man - set di 5 paia
+2024-12-17 19:06:46,298 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli
+2024-12-17 19:06:46,298 - INFO - Extracted product: Maglione squadrato oversize in maglia super morbida
+2024-12-17 19:06:46,298 - INFO - Extracted product: Jeans a zampa rilassati in denim rigido
+2024-12-17 19:06:46,298 - INFO - Extracted product: T-shirt pesante oversize Limited
+2024-12-17 19:06:46,298 - INFO - Extracted product: Boxer medi Man Dash - set di 3 paia
+2024-12-17 19:06:46,298 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 19:06:46,298 - INFO - Extracted product: Tuta sportiva oversize con grafica stile Graffiti
+2024-12-17 19:06:46,299 - INFO - Extracted product: Jeans Cargo Slim Fit in denim rigido sovratinti a effetto consumato
+2024-12-17 19:06:46,299 - INFO - Extracted product: Felpa oversize Basic con cappuccio ampio
+2024-12-17 19:06:46,299 - INFO - Extracted product: T-shirt Slim Fit Basic
+2024-12-17 19:06:46,299 - INFO - Extracted product: Giacca trapuntata in nero extra lucido con cappuccio
+2024-12-17 19:06:46,299 - INFO - Extracted product: Pantaloni tuta Slim Fit a zampa con pieghe sul fondo e inserti
+2024-12-17 19:06:46,299 - INFO - Extracted product: T-shirt a girocollo a maniche lunghe
+2024-12-17 19:06:46,299 - INFO - Extracted product: Jeans extra comodi neri in denim rigido effetto patchwork con fascia in vita
+2024-12-17 19:06:46,299 - INFO - Extracted product: Jeans extra comodi in True Black in denim rigido
+2024-12-17 19:06:46,300 - INFO - Extracted product: Jeans extra comodi in denim rigido
+2024-12-17 19:06:48,392 - WARNING - Load More button not found or not clickable: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 16). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x00000001051b3af0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x00000001051ac340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000104c144b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000104c5e12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000104c5c77c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000104c5a6c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000104c59af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000104c4efbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000104c4ea10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000104c920fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000104c4d0b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000104c4dd00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010517ee34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010518214c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001051661a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x0000000105182a0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001051579b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x000000010519d120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010519d29c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x00000001051abfb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 19:06:48,392 - INFO - No 'Load More' button found or unable to click. Ending scraping.
+2024-12-17 19:06:48,470 - INFO - WebDriver closed.
+2024-12-17 19:06:48,470 - INFO - Scraped data saved to boohoo_new_in.json
+2024-12-17 20:42:59,375 - INFO - ====== WebDriver manager ======
+2024-12-17 20:42:59,512 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 20:42:59,596 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 20:42:59,718 - INFO - Driver [/Users/nicola.antonio/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-17 20:43:00,506 - INFO - WebDriver initialized successfully.
+2024-12-17 20:43:03,186 - INFO - Accessed https://it.boohoo.com/uomo/ultimi-arrivi
+2024-12-17 20:43:03,186 - INFO - Scraping Page 1...
+2024-12-17 20:43:03,201 - INFO - Product sections loaded for Page 1.
+2024-12-17 20:43:08,198 - INFO - Reached the bottom of the page.
+2024-12-17 20:43:08,350 - INFO - Found 60 products on page 1.
+2024-12-17 20:43:08,350 - INFO - Extracted product: Giacca completo a monopetto Skinny Fit con trama
+2024-12-17 20:43:08,350 - INFO - Extracted product: Canotta imbottita pesante slavata Baby Fit
+2024-12-17 20:43:08,351 - INFO - Extracted product: T-shirt squadrata oversize slavata con stampa Waffle 14
+2024-12-17 20:43:08,351 - INFO - Extracted product: T-shirt oversize pesante slavata con stampa di laccetti
+2024-12-17 20:43:08,351 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 20:43:08,351 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 20:43:08,351 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 20:43:08,351 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 20:43:08,352 - INFO - Extracted product: T-shirt oversize pesante slavata con girocollo esteso
+2024-12-17 20:43:08,352 - INFO - Extracted product: T-shirt oversize pesante slavata con fiori di giglio e girocollo esteso
+2024-12-17 20:43:08,352 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 20:43:08,352 - INFO - Extracted product: T-shirt oversize pesante con Fleur De Lis e girocollo esteso
+2024-12-17 20:43:08,352 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 20:43:08,352 - INFO - Extracted product: Cappello da baseball rosso effetto smagliato con grafica stampata
+2024-12-17 20:43:08,353 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata
+2024-12-17 20:43:08,353 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 20:43:08,353 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 20:43:08,353 - INFO - Extracted product: T-shirt oversize pesante slavata Sorry con girocollo esteso
+2024-12-17 20:43:08,353 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 20:43:08,353 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 20:43:08,354 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 20:43:08,354 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata con finto doppio livello e stampa di fiamme
+2024-12-17 20:43:08,354 - INFO - Extracted product: T-shirt oversize pesante Sorry con girocollo esteso
+2024-12-17 20:43:08,354 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 20:43:08,354 - INFO - Extracted product: T-shirt squadrata oversize slavata pesante con dettagli ad anello
+2024-12-17 20:43:08,354 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 20:43:08,355 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 20:43:08,355 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 20:43:08,355 - INFO - Extracted product: Giacca Bomber squadrata rosa con stampa BM e colletto
+2024-12-17 20:43:08,355 - INFO - Extracted product: Pantaloni tuta a gamba super ampia
+2024-12-17 20:43:08,355 - INFO - Extracted product: Pantaloni tuta Worldwide con cuciture a contrasto e inserti
+2024-12-17 20:43:08,355 - INFO - Extracted product: Felpa oversize ufficiale dei Linkin Park in lavaggio con cappuccio
+2024-12-17 20:43:08,356 - INFO - Extracted product: Tuta sportiva squadrata oversize Homme con spacco sul fondo
+2024-12-17 20:43:08,356 - INFO - Extracted product: Felpa Basic con cappuccio ampio
+2024-12-17 20:43:08,356 - INFO - Extracted product: Camicia squadrata in Stretch tecnico
+2024-12-17 20:43:08,356 - INFO - Extracted product: Felpa Basic a girocollo
+2024-12-17 20:43:08,356 - INFO - Extracted product: Pantaloni Carpenter Tall rilassati in twill con vita fissa
+2024-12-17 20:43:08,356 - INFO - Extracted product: Jeans a zampa Slim Fit con strappi all over e fondo ampio
+2024-12-17 20:43:08,357 - INFO - Extracted product: Tuta sportiva squadrata oversize con stampa
+2024-12-17 20:43:08,357 - INFO - Extracted product: Pantaloncini da allenamento Man Active Gym con tasche Cargo
+2024-12-17 20:43:08,357 - INFO - Extracted product: Jeans a zampa in denim rigido rilassati con pannelli
+2024-12-17 20:43:08,357 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 20:43:08,358 - INFO - Extracted product: Parka nero con cappuccio e finiture rimovibili in pelliccia sintetica
+2024-12-17 20:43:08,358 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 20:43:08,358 - INFO - Extracted product: Boxer Man - set di 5 paia
+2024-12-17 20:43:08,358 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli
+2024-12-17 20:43:08,358 - INFO - Extracted product: Maglione squadrato oversize in maglia super morbida
+2024-12-17 20:43:08,358 - INFO - Extracted product: Jeans a zampa rilassati in denim rigido
+2024-12-17 20:43:08,359 - INFO - Extracted product: T-shirt pesante oversize Limited
+2024-12-17 20:43:08,359 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 20:43:08,359 - INFO - Extracted product: Boxer medi Man Dash - set di 3 paia
+2024-12-17 20:43:08,359 - INFO - Extracted product: Tuta sportiva oversize con grafica stile Graffiti
+2024-12-17 20:43:08,359 - INFO - Extracted product: Jeans Cargo Slim Fit in denim rigido sovratinti a effetto consumato
+2024-12-17 20:43:08,359 - INFO - Extracted product: Felpa oversize Basic con cappuccio ampio
+2024-12-17 20:43:08,360 - INFO - Extracted product: T-shirt Slim Fit Basic
+2024-12-17 20:43:08,360 - INFO - Extracted product: Giacca trapuntata in nero extra lucido con cappuccio
+2024-12-17 20:43:08,360 - INFO - Extracted product: Pantaloni tuta Slim Fit a zampa con pieghe sul fondo e inserti
+2024-12-17 20:43:08,360 - INFO - Extracted product: T-shirt a girocollo a maniche lunghe
+2024-12-17 20:43:08,360 - INFO - Extracted product: Jeans extra comodi neri in denim rigido effetto patchwork con fascia in vita
+2024-12-17 20:43:08,360 - INFO - Extracted product: Jeans extra comodi in True Black in denim rigido
+2024-12-17 20:43:10,436 - WARNING - Attempt 1 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 26). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x0000000102953af0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x000000010294c340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x00000001023b44b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x00000001023fe12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x00000001023fc77c cxxbridge1$string$len + 384848
+5   chromedriver                        0x00000001023fa6c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x00000001023f9af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x00000001023eefbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x00000001023eea10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x00000001024320fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x00000001023ed0b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x00000001023edd00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010291ee34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010292214c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001029061a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x0000000102922a0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001028f79b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x000000010293d120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010293d29c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x000000010294bfb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 20:43:14,513 - WARNING - Attempt 2 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 26). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x0000000102953af0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x000000010294c340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x00000001023b44b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x00000001023fe12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x00000001023fc77c cxxbridge1$string$len + 384848
+5   chromedriver                        0x00000001023fa6c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x00000001023f9af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x00000001023eefbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x00000001023eea10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x00000001024320fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x00000001023ed0b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x00000001023edd00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010291ee34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010292214c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001029061a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x0000000102922a0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001028f79b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x000000010293d120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010293d29c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x000000010294bfb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 20:43:18,619 - WARNING - Attempt 3 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 26). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x0000000102953af0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x000000010294c340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x00000001023b44b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x00000001023fe12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x00000001023fc77c cxxbridge1$string$len + 384848
+5   chromedriver                        0x00000001023fa6c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x00000001023f9af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x00000001023eefbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x00000001023eea10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x00000001024320fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x00000001023ed0b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x00000001023edd00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010291ee34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010292214c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001029061a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x0000000102922a0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001028f79b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x000000010293d120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010293d29c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x000000010294bfb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 20:43:20,625 - ERROR - Failed to click 'Load More' button after multiple attempts.
+2024-12-17 20:43:20,625 - INFO - No 'Load More' button found or unable to click. Ending scraping.
+2024-12-17 20:43:20,708 - INFO - WebDriver closed.
+2024-12-17 20:43:20,709 - INFO - Scraped data saved to boohoo_new_in.json
+2024-12-17 20:45:57,350 - INFO - ====== WebDriver manager ======
+2024-12-17 20:45:57,492 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 20:45:57,555 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 20:45:57,616 - INFO - Driver [/Users/nicola.antonio/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-17 20:45:58,399 - INFO - WebDriver initialized successfully.
+2024-12-17 20:46:00,147 - INFO - Accessed https://it.boohoo.com/uomo/ultimi-arrivi
+2024-12-17 20:46:00,147 - INFO - Scraping Page 1...
+2024-12-17 20:46:00,162 - INFO - Product sections loaded for Page 1.
+2024-12-17 20:46:02,728 - INFO - Found 60 products on page 1.
+2024-12-17 20:46:02,729 - INFO - Extracted product: Giacca completo a monopetto Skinny Fit con trama
+2024-12-17 20:46:02,729 - INFO - Extracted product: Canotta imbottita pesante slavata Baby Fit
+2024-12-17 20:46:02,729 - INFO - Extracted product: T-shirt squadrata oversize slavata con stampa Waffle 14
+2024-12-17 20:46:02,729 - INFO - Extracted product: T-shirt oversize pesante slavata con stampa di laccetti
+2024-12-17 20:46:02,729 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 20:46:02,729 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 20:46:02,730 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 20:46:02,730 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 20:46:02,730 - INFO - Extracted product: T-shirt oversize pesante slavata con girocollo esteso
+2024-12-17 20:46:02,730 - INFO - Extracted product: T-shirt oversize pesante slavata con fiori di giglio e girocollo esteso
+2024-12-17 20:46:02,730 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 20:46:02,730 - INFO - Extracted product: T-shirt oversize pesante con Fleur De Lis e girocollo esteso
+2024-12-17 20:46:02,730 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 20:46:02,730 - INFO - Extracted product: Cappello da baseball rosso effetto smagliato con grafica stampata
+2024-12-17 20:46:02,731 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata
+2024-12-17 20:46:02,731 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 20:46:02,731 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 20:46:02,731 - INFO - Extracted product: T-shirt oversize pesante slavata Sorry con girocollo esteso
+2024-12-17 20:46:02,731 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 20:46:02,731 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 20:46:02,731 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 20:46:02,732 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata con finto doppio livello e stampa di fiamme
+2024-12-17 20:46:02,732 - INFO - Extracted product: T-shirt oversize pesante Sorry con girocollo esteso
+2024-12-17 20:46:02,732 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 20:46:02,732 - INFO - Extracted product: T-shirt squadrata oversize slavata pesante con dettagli ad anello
+2024-12-17 20:46:02,732 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 20:46:02,732 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 20:46:02,732 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 20:46:02,732 - INFO - Extracted product: Giacca Bomber squadrata rosa con stampa BM e colletto
+2024-12-17 20:46:02,733 - INFO - Extracted product: Pantaloni tuta a gamba super ampia
+2024-12-17 20:46:02,733 - INFO - Extracted product: Pantaloni tuta Worldwide con cuciture a contrasto e inserti
+2024-12-17 20:46:02,733 - INFO - Extracted product: Felpa oversize ufficiale dei Linkin Park in lavaggio con cappuccio
+2024-12-17 20:46:02,733 - INFO - Extracted product: Tuta sportiva squadrata oversize Homme con spacco sul fondo
+2024-12-17 20:46:02,733 - INFO - Extracted product: Felpa Basic con cappuccio ampio
+2024-12-17 20:46:02,733 - INFO - Extracted product: Camicia squadrata in Stretch tecnico
+2024-12-17 20:46:02,733 - INFO - Extracted product: Felpa Basic a girocollo
+2024-12-17 20:46:02,733 - INFO - Extracted product: Pantaloni Carpenter Tall rilassati in twill con vita fissa
+2024-12-17 20:46:02,734 - INFO - Extracted product: Jeans a zampa Slim Fit con strappi all over e fondo ampio
+2024-12-17 20:46:02,734 - INFO - Extracted product: Tuta sportiva squadrata oversize con stampa
+2024-12-17 20:46:02,734 - INFO - Extracted product: Pantaloncini da allenamento Man Active Gym con tasche Cargo
+2024-12-17 20:46:02,734 - INFO - Extracted product: Jeans a zampa in denim rigido rilassati con pannelli
+2024-12-17 20:46:02,734 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 20:46:02,734 - INFO - Extracted product: Parka nero con cappuccio e finiture rimovibili in pelliccia sintetica
+2024-12-17 20:46:02,734 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 20:46:02,734 - INFO - Extracted product: Boxer Man - set di 5 paia
+2024-12-17 20:46:02,735 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli
+2024-12-17 20:46:02,735 - INFO - Extracted product: Maglione squadrato oversize in maglia super morbida
+2024-12-17 20:46:02,735 - INFO - Extracted product: Jeans a zampa rilassati in denim rigido
+2024-12-17 20:46:02,735 - INFO - Extracted product: T-shirt pesante oversize Limited
+2024-12-17 20:46:02,735 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 20:46:02,735 - INFO - Extracted product: Boxer medi Man Dash - set di 3 paia
+2024-12-17 20:46:02,736 - INFO - Extracted product: Tuta sportiva oversize con grafica stile Graffiti
+2024-12-17 20:46:02,736 - INFO - Extracted product: Jeans Cargo Slim Fit in denim rigido sovratinti a effetto consumato
+2024-12-17 20:46:02,736 - INFO - Extracted product: Felpa oversize Basic con cappuccio ampio
+2024-12-17 20:46:02,736 - INFO - Extracted product: T-shirt Slim Fit Basic
+2024-12-17 20:46:02,736 - INFO - Extracted product: Giacca trapuntata in nero extra lucido con cappuccio
+2024-12-17 20:46:02,736 - INFO - Extracted product: Pantaloni tuta Slim Fit a zampa con pieghe sul fondo e inserti
+2024-12-17 20:46:02,736 - INFO - Extracted product: T-shirt a girocollo a maniche lunghe
+2024-12-17 20:46:02,737 - INFO - Extracted product: Jeans extra comodi neri in denim rigido effetto patchwork con fascia in vita
+2024-12-17 20:46:02,737 - INFO - Extracted product: Jeans extra comodi in True Black in denim rigido
+2024-12-17 20:46:04,803 - WARNING - Load More button not found or not clickable: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 16). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x0000000101447af0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000101440340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000100ea84b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000100ef212c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000100ef077c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000100eee6c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000100eedaf8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000100ee2fbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000100ee2a10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000100f260fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000100ee10b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000100ee1d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x0000000101412e34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010141614c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001013fa1a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x0000000101416a0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001013eb9b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x0000000101431120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010143129c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x000000010143ffb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 20:46:04,803 - INFO - No 'Load More' button found or unable to click. Ending scraping.
+2024-12-17 20:46:04,887 - INFO - WebDriver closed.
+2024-12-17 20:46:04,887 - INFO - Scraped data saved to boohoo_new_in.json
+2024-12-17 21:29:04,294 - INFO - ====== WebDriver manager ======
+2024-12-17 21:29:09,093 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 21:29:09,162 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 21:29:09,221 - INFO - Driver [/Users/nicola.antonio/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-17 21:29:10,285 - INFO - WebDriver initialized successfully.
+2024-12-17 21:29:11,719 - INFO - Accessed https://it.boohoo.com/uomo/ultimi-arrivi
+2024-12-17 21:29:11,719 - INFO - Scraping Page 1...
+2024-12-17 21:29:11,732 - INFO - Product sections loaded for Page 1.
+2024-12-17 21:29:17,762 - INFO - Reached the bottom of the page.
+2024-12-17 21:29:17,909 - INFO - Found 60 products on page 1.
+2024-12-17 21:29:17,910 - INFO - Extracted product: Giacca completo a monopetto Skinny Fit con trama
+2024-12-17 21:29:17,910 - INFO - Extracted product: Canotta imbottita pesante slavata Baby Fit
+2024-12-17 21:29:17,910 - INFO - Extracted product: T-shirt squadrata oversize slavata con stampa Waffle 14
+2024-12-17 21:29:17,910 - INFO - Extracted product: T-shirt oversize pesante slavata con stampa di laccetti
+2024-12-17 21:29:17,910 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 21:29:17,911 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 21:29:17,911 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 21:29:17,911 - INFO - Extracted product: T-shirt Baby Fit pesante slavata 1400
+2024-12-17 21:29:17,911 - INFO - Extracted product: T-shirt oversize pesante slavata con girocollo esteso
+2024-12-17 21:29:17,911 - INFO - Extracted product: T-shirt oversize pesante slavata con fiori di giglio e girocollo esteso
+2024-12-17 21:29:17,911 - INFO - Extracted product: Pantaloni Cargo in Stretch tecnico rilassati con vita elasticizzata
+2024-12-17 21:29:17,912 - INFO - Extracted product: T-shirt oversize pesante con Fleur De Lis e girocollo esteso
+2024-12-17 21:29:17,912 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 21:29:17,912 - INFO - Extracted product: Cappello da baseball rosso effetto smagliato con grafica stampata
+2024-12-17 21:29:17,912 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata
+2024-12-17 21:29:17,912 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 21:29:17,912 - INFO - Extracted product: Jeans rilassati in denim rigido con pannelli
+2024-12-17 21:29:17,913 - INFO - Extracted product: T-shirt oversize pesante slavata Sorry con girocollo esteso
+2024-12-17 21:29:17,913 - INFO - Extracted product: T-shirt oversize slavata pesante con stampa di labbra
+2024-12-17 21:29:17,913 - INFO - Extracted product: Maglione attillato in maglia effetto smagliato con cappuccio
+2024-12-17 21:29:17,913 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 21:29:17,913 - INFO - Extracted product: T-shirt squadrata oversize pesante slavata con finto doppio livello e stampa di fiamme
+2024-12-17 21:29:17,913 - INFO - Extracted product: T-shirt oversize pesante Sorry con girocollo esteso
+2024-12-17 21:29:17,913 - INFO - Extracted product: T-shirt oversize pesante con stampa
+2024-12-17 21:29:17,914 - INFO - Extracted product: T-shirt squadrata oversize slavata pesante con dettagli ad anello
+2024-12-17 21:29:17,914 - INFO - Extracted product: Jeans a zampa Slim Fit con pannelli e smagliature
+2024-12-17 21:29:17,914 - INFO - Extracted product: T-shirt Basic a girocollo
+2024-12-17 21:29:17,914 - INFO - Extracted product: T-shirt oversize Super Heavy Premium
+2024-12-17 21:29:17,914 - INFO - Extracted product: Giacca Bomber squadrata rosa con stampa BM e colletto
+2024-12-17 21:29:17,914 - INFO - Extracted product: Pantaloni tuta a gamba super ampia
+2024-12-17 21:29:17,915 - INFO - Extracted product: Pantaloni tuta Worldwide con cuciture a contrasto e inserti
+2024-12-17 21:29:17,915 - INFO - Extracted product: Felpa oversize ufficiale dei Linkin Park in lavaggio con cappuccio
+2024-12-17 21:29:17,915 - INFO - Extracted product: T-shirt squadrata oversize pesante con ricamo rinascimentale
+2024-12-17 21:29:17,915 - INFO - Extracted product: Tuta sportiva squadrata oversize a gamba ampia con cappuccio e stemma in gomma
+2024-12-17 21:29:17,915 - INFO - Extracted product: Tuta sportiva squadrata oversize con lettera M, stella, laccetti e cappuccio esteso
+2024-12-17 21:29:17,915 - INFO - Extracted product: Maglione attillato in maglia a coste in lavaggio acido con maniche raglan
+2024-12-17 21:29:17,916 - INFO - Extracted product: Maglione attillato in maglia a coste in lavaggio acido con maniche raglan
+2024-12-17 21:29:17,916 - INFO - Extracted product: Maglione squadrato in maglia morbida con trama a contrasto
+2024-12-17 21:29:17,916 - INFO - Extracted product: T-shirt oversize Official con stampa sul retro ed etichetta in tessuto
+2024-12-17 21:29:17,916 - INFO - Extracted product: T-shirt con stampa Tokyo Japan Waves
+2024-12-17 21:29:17,916 - INFO - Extracted product: T-shirt oversize con ricamo di B
+2024-12-17 21:29:17,917 - INFO - Extracted product: Felpa oversize pesante con stampa di disegno a linee e cappuccio
+2024-12-17 21:29:17,917 - INFO - Extracted product: Felpa oversize slavata con grafica WRLDWD stile Graffiti e cappuccio
+2024-12-17 21:29:17,917 - INFO - Extracted product: T-shirt oversize con grafica di vulcano e girocollo esteso
+2024-12-17 21:29:17,917 - INFO - Extracted product: Oversized Washed Branded Graffiti Graphic Hoodie
+2024-12-17 21:29:17,917 - INFO - Extracted product: Washed Cross Renaissance Graphic Hoodie
+2024-12-17 21:29:17,918 - INFO - Extracted product: Washed Too Woke Text Graphic Hoodie
+2024-12-17 21:29:17,918 - INFO - Extracted product: Felpa Plus Size oversize Man con schizzi di colore e cappuccio
+2024-12-17 21:29:17,918 - INFO - Extracted product: Maglione oversize in maglia spazzolata in jacquard con spalle scese
+2024-12-17 21:29:17,918 - INFO - Extracted product: Maglione Plus Size oversize in maglia con teschi e farfalle
+2024-12-17 21:29:17,918 - INFO - Extracted product: Maglione Plus Size squadrato oversize in maglia con Smiley
+2024-12-17 21:29:17,918 - INFO - Extracted product: Maglione Plus Size oversize in maglia rinascimentale con Smiley
+2024-12-17 21:29:17,918 - INFO - Extracted product: Pantaloni tuta a zampa Plus Size rilassati Man con schizzi di colore
+2024-12-17 21:29:17,919 - INFO - Extracted product: FELPA GRIGIA
+2024-12-17 21:29:17,919 - INFO - Extracted product: Maglione Tall oversize in maglia rinascimentale con Smiley
+2024-12-17 21:29:17,919 - INFO - Extracted product: Tuta sportiva squadrata oversize Homme con spacco sul fondo
+2024-12-17 21:29:17,919 - INFO - Extracted product: Felpa Basic con cappuccio ampio
+2024-12-17 21:29:17,919 - INFO - Extracted product: Camicia squadrata in Stretch tecnico
+2024-12-17 21:29:17,919 - INFO - Extracted product: Felpa Basic a girocollo
+2024-12-17 21:29:17,920 - INFO - Extracted product: Pantaloni Carpenter Tall rilassati in twill con vita fissa
+2024-12-17 21:29:19,990 - WARNING - Attempt 1 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 26). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x000000010518faf0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000105188340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000104bf04b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000104c3a12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000104c3877c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000104c366c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000104c35af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000104c2afbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000104c2aa10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000104c6e0fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000104c290b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000104c29d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010515ae34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010515e14c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001051421a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x000000010515ea0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001051339b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x0000000105179120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010517929c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x0000000105187fb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 21:29:24,105 - WARNING - Attempt 2 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 26). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x000000010518faf0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000105188340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000104bf04b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000104c3a12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000104c3877c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000104c366c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000104c35af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000104c2afbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000104c2aa10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000104c6e0fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000104c290b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000104c29d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010515ae34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010515e14c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001051421a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x000000010515ea0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001051339b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x0000000105179120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010517929c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x0000000105187fb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 21:29:28,210 - WARNING - Attempt 3 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://it.boohoo.com/uomo/ultimi-arrivi?start=60&amp;sz=60" data-show-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-UpdateGrid?cgid=mens-newin&amp;start=60&amp;sz=60" data-show-ajax-url="https://it.boohoo.com/on/demandware.store/Sites-boohoo-MED-Site/it_IT/Search-ShowAjax?cgid=mens-newin&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (735, 26). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x000000010518faf0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000105188340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000104bf04b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000104c3a12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000104c3877c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000104c366c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000104c35af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000104c2afbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000104c2aa10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000104c6e0fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000104c290b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000104c29d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010515ae34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010515e14c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001051421a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x000000010515ea0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001051339b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x0000000105179120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x000000010517929c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x0000000105187fb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 21:29:30,215 - ERROR - Failed to click 'Load More' button after multiple attempts.
+2024-12-17 21:29:30,216 - INFO - No 'Load More' button found or unable to click. Ending scraping.
+2024-12-17 21:29:30,312 - INFO - WebDriver closed.
+2024-12-17 21:29:30,312 - INFO - Scraped data saved to boohoo_new_in.json
+2024-12-17 21:38:37,840 - INFO - ====== WebDriver manager ======
+2024-12-17 21:38:37,977 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 21:38:38,045 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 21:38:38,101 - INFO - Driver [/Users/nicola.antonio/.wdm/drivers/chromedriver/mac64/131.0.6778.108/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-17 21:38:38,912 - INFO - WebDriver initialized successfully.
+2024-12-17 21:38:40,463 - INFO - Accessed https://www.boohoo.com/mens-promotions/mens-flash-promo
+2024-12-17 21:38:40,464 - INFO - Scraping Page 1...
+2024-12-17 21:38:40,484 - INFO - Product sections loaded for Page 1.
+2024-12-17 21:38:46,199 - INFO - Reached the bottom of the page.
+2024-12-17 21:38:46,393 - INFO - Found 60 products on page 1.
+2024-12-17 21:38:46,393 - INFO - Extracted product: Washed Seam Hooded Puffer Jacket In Burgundy
+2024-12-17 21:38:46,393 - INFO - Extracted product: Straight Leg Multi Cargo Trouser With Woven Tab
+2024-12-17 21:38:46,393 - INFO - Extracted product: Oversized Boxy Man Paint Splatter Gusset Hooded Tracksuit
+2024-12-17 21:38:46,393 - INFO - Extracted product: Oversized Boxy Line Floral Print Hoodie
+2024-12-17 21:38:46,393 - INFO - Extracted product: Borg & Nylon Funnel Neck Puffer In Chocolate
+2024-12-17 21:38:46,394 - INFO - Extracted product: Extreme Heavyweight Oversized Metal Trim Slogan T-Shirt
+2024-12-17 21:38:46,394 - INFO - Extracted product: Fixed Waist Straight Leg Heavyweight Boucle Cargo Trousers
+2024-12-17 21:38:46,394 - INFO - Extracted product: Boxy M Text Graphic Hoodie
+2024-12-17 21:38:46,394 - INFO - Extracted product: Oversized Spray M Print Funnel Neck Puffer Jacket In Blue
+2024-12-17 21:38:46,394 - INFO - Extracted product: Velour Fixed Waist Rigid Slim Stacked Trouser
+2024-12-17 21:38:46,394 - INFO - Extracted product: Oversized Boxy Gothic Homme Printed Gusset Tracksuit
+2024-12-17 21:38:46,394 - INFO - Extracted product: MMXIII Crest Graphic Zip Through Hoodie
+2024-12-17 21:38:46,394 - INFO - Extracted product: Oversized Boxy Bound Hem Rugby Sweatshirt
+2024-12-17 21:38:46,394 - INFO - Extracted product: Quilted High Shine Vinyl Hooded Gilet In Blue
+2024-12-17 21:38:46,394 - INFO - Extracted product: Relaxed Fixed Waist PU Trouser
+2024-12-17 21:38:46,394 - INFO - Extracted product: Oversized Boxy Limited Varsity Graffiti Zip Through Hooded Tracksuit
+2024-12-17 21:38:46,395 - INFO - Extracted product: Satin Collared Bomber Jacket In Ecru
+2024-12-17 21:38:46,395 - INFO - Extracted product: Fixed Waist Washed Baggy Cargo Trouser
+2024-12-17 21:38:46,395 - INFO - Extracted product: Oversized Boxy Bonded Scuba Hooded Tracksuit
+2024-12-17 21:38:46,395 - INFO - Extracted product: Oversized Washed Jewel Mask Back Print T-shirt
+2024-12-17 21:38:46,395 - INFO - Extracted product: Hooded Ripstop Puffer Jacket In Green
+2024-12-17 21:38:46,395 - INFO - Extracted product: Oversized Skeleton Beaded Sweatshirt
+2024-12-17 21:38:46,395 - INFO - Extracted product: Fixed Waist Wide Textured Multi Pocket Cargo Trousers
+2024-12-17 21:38:46,395 - INFO - Extracted product: OFCL Man Print T-Shirt
+2024-12-17 21:38:46,395 - INFO - Extracted product: Oversized Boxy Paisley Embroidered Hoodie
+2024-12-17 21:38:46,395 - INFO - Extracted product: Elasticated Waist Tapered Cargo Jogger
+2024-12-17 21:38:46,395 - INFO - Extracted product: Colour Block Hooded Padded Bomber Jacket In Purple
+2024-12-17 21:38:46,395 - INFO - Extracted product: Premium Oversized Faux Layer Washed & Embroidered T-shirt
+2024-12-17 21:38:46,395 - INFO - Extracted product: Oversized Premium Super Heavyweight T-shirt
+2024-12-17 21:38:46,396 - INFO - Extracted product: Bonded Scuba Harrington Jacket
+2024-12-17 21:38:46,396 - INFO - Extracted product: Relaxed Pixelated Camo Trouser
+2024-12-17 21:38:46,396 - INFO - Extracted product: Man Signature Boxy Zip Through Hooded Tracksuit
+2024-12-17 21:38:46,396 - INFO - Extracted product: Plus Oversized Nirvana License Print Hoodie
+2024-12-17 21:38:46,396 - INFO - Extracted product: Plus Relaxed Heavily Distressed Camo Trouser
+2024-12-17 21:38:46,396 - INFO - Extracted product: Plus 4 Pocket Longline Hooded Puffer Jacket in Black
+2024-12-17 21:38:46,396 - INFO - Extracted product: Plus Scuba Oversized T-shirt
+2024-12-17 21:38:46,396 - INFO - Extracted product: Funnel Neck Puffer Jacket in Stone
+2024-12-17 21:38:46,396 - INFO - Extracted product: Oversized Boxy Homme Varsity Print T-Shirt
+2024-12-17 21:38:46,396 - INFO - Extracted product: Fixed Waist Slim Twill Camo 3D Multi Pocket Cargo Trousers
+2024-12-17 21:38:46,396 - INFO - Extracted product: Oversized Line Drawing Knitted T-shirt
+2024-12-17 21:38:46,396 - INFO - Extracted product: Man Tape Funnel Neck Puffer Coat In Red
+2024-12-17 21:38:46,396 - INFO - Extracted product: Relaxed Fit Brown Washed Jeans
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized All Over Graffiti Printed T-Shirt
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Boxy Paisley Print Bomber Jacket
+2024-12-17 21:38:46,397 - INFO - Extracted product: 13 Graffiti Graphic Spray Washed Hoodie
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Boxy Washed Graphic Raw Hem T-shirt
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Man Spray Wash Joggers
+2024-12-17 21:38:46,397 - INFO - Extracted product: High Shine & Nylon Mid Length Puffer
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Washed New York Graphic Hoodie
+2024-12-17 21:38:46,397 - INFO - Extracted product: Elasticated Waist Relaxed Fit Cargo Trouser
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Boxy Washed Pu Hooded Puffer Coat In Brown
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Acid Wash Cross Graphic T-shirt
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Washed Floral Line Drawing Graphic Hoodie
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Large Scale OFCL Tattoo Graphic T-Shirt
+2024-12-17 21:38:46,397 - INFO - Extracted product: Acid Wash Relaxed Cord Cargo Trouser
+2024-12-17 21:38:46,397 - INFO - Extracted product: Oversized Slub Interlock Hoodie
+2024-12-17 21:38:46,398 - INFO - Extracted product: Oversized Pour Homme Star Graphic Sweatshirt
+2024-12-17 21:38:46,398 - INFO - Extracted product: Oversized Contrast Stitch Star Cuffed Jogger
+2024-12-17 21:38:46,398 - INFO - Extracted product: Funnel Neck Puffer Jacket With Removeable Sleeves In White
+2024-12-17 21:38:46,398 - INFO - Extracted product: Oversized B Embroidered Sweatshirt
+2024-12-17 21:38:48,471 - WARNING - Attempt 1 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://www.boohoo.com/mens-promotions/mens-flash-promo?start=60&amp;sz=60" data-show-url="https://www.boohoo.com/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Search-UpdateGrid?cgid=mens-flash-promo&amp;start=60&amp;sz=60" data-show-ajax-url="https://www.boohoo.com/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Search-ShowAjax?cgid=mens-flash-promo&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (599, 16). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x00000001014bfaf0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x00000001014b8340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000100f204b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000100f6a12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000100f6877c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000100f666c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000100f65af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000100f5afbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000100f5aa10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000100f9e0fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000100f590b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000100f59d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010148ae34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010148e14c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001014721a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x000000010148ea0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001014639b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x00000001014a9120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x00000001014a929c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x00000001014b7fb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 21:38:52,550 - WARNING - Attempt 2 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://www.boohoo.com/mens-promotions/mens-flash-promo?start=60&amp;sz=60" data-show-url="https://www.boohoo.com/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Search-UpdateGrid?cgid=mens-flash-promo&amp;start=60&amp;sz=60" data-show-ajax-url="https://www.boohoo.com/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Search-ShowAjax?cgid=mens-flash-promo&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (599, 16). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x00000001014bfaf0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x00000001014b8340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000100f204b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000100f6a12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000100f6877c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000100f666c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000100f65af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000100f5afbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000100f5aa10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000100f9e0fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000100f590b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000100f59d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010148ae34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010148e14c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001014721a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x000000010148ea0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001014639b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x00000001014a9120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x00000001014a929c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x00000001014b7fb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 21:38:56,648 - WARNING - Attempt 3 to click 'Load More' failed: Message: element click intercepted: Element <a class="b-load_more-button b-button m-small m-width_full js-load-more" data-event-click.prevent="loadMore" href="https://www.boohoo.com/mens-promotions/mens-flash-promo?start=60&amp;sz=60" data-show-url="https://www.boohoo.com/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Search-UpdateGrid?cgid=mens-flash-promo&amp;start=60&amp;sz=60" data-show-ajax-url="https://www.boohoo.com/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Search-ShowAjax?cgid=mens-flash-promo&amp;start=60&amp;sz=60&amp;history=true" role="button" data-tau="load_more">...</a> is not clickable at point (599, 16). Other element would receive the click: <div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div>
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+0   chromedriver                        0x00000001014bfaf0 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x00000001014b8340 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000100f204b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000100f6a12c cxxbridge1$string$len + 391424
+4   chromedriver                        0x0000000100f6877c cxxbridge1$string$len + 384848
+5   chromedriver                        0x0000000100f666c0 cxxbridge1$string$len + 376468
+6   chromedriver                        0x0000000100f65af8 cxxbridge1$string$len + 373452
+7   chromedriver                        0x0000000100f5afbc cxxbridge1$string$len + 329616
+8   chromedriver                        0x0000000100f5aa10 cxxbridge1$string$len + 328164
+9   chromedriver                        0x0000000100f9e0fc cxxbridge1$string$len + 604368
+10  chromedriver                        0x0000000100f590b0 cxxbridge1$string$len + 321668
+11  chromedriver                        0x0000000100f59d00 cxxbridge1$string$len + 324820
+12  chromedriver                        0x000000010148ae34 cxxbridge1$str$ptr + 3435328
+13  chromedriver                        0x000000010148e14c cxxbridge1$str$ptr + 3448408
+14  chromedriver                        0x00000001014721a8 cxxbridge1$str$ptr + 3333812
+15  chromedriver                        0x000000010148ea0c cxxbridge1$str$ptr + 3450648
+16  chromedriver                        0x00000001014639b4 cxxbridge1$str$ptr + 3274432
+17  chromedriver                        0x00000001014a9120 cxxbridge1$str$ptr + 3558956
+18  chromedriver                        0x00000001014a929c cxxbridge1$str$ptr + 3559336
+19  chromedriver                        0x00000001014b7fb4 cxxbridge1$str$ptr + 3620032
+20  libsystem_pthread.dylib             0x000000019eec5f94 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000019eec0d34 thread_start + 8
+
+2024-12-17 21:38:58,653 - ERROR - Failed to click 'Load More' button after multiple attempts.
+2024-12-17 21:38:58,653 - INFO - No 'Load More' button found or unable to click. Ending scraping.
+2024-12-17 21:38:58,744 - INFO - WebDriver closed.
+2024-12-17 21:38:58,745 - INFO - Scraped data saved to boohoo_new_in.json

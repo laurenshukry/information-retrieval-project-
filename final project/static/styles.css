@@ -1,0 +1,276 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #ffffff; /* White background */
+    color: #333333; /* Dark text */
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+/* Layout */
+.layout {
+    display: flex;
+    width: 100%;
+}
+
+/* Sticky Sidebar (Frozen Navbar) */
+.navbar {
+    background-color: #5c5470; /* Slightly muted purple */
+    color: #ffffff;
+    width: 220px;
+    padding: 20px 15px;
+    position: fixed; /* Navbar stays frozen on the left */
+    top: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-categories {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-categories li {
+    margin-bottom: 15px;
+}
+
+.nav-categories a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+    background-color: #6c5b7b; /* Light purple */
+    transition: background-color 0.3s, transform 0.2s;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-categories a:hover {
+    background-color: #563d7c; /* Darker shade on hover */
+    transform: translateX(5px);
+}
+
+/* Main Content */
+main {
+    margin-left: 240px; /* Leave space for the sticky navbar */
+    padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center main content */
+    box-sizing: border-box;
+}
+
+/* Logo */
+.logo-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo {
+    max-width: 400px;
+    height: auto;
+}
+
+/* Search Form */
+.search-form {
+    text-align: center;
+    margin-bottom: 40px; /* Adds spacing below the search bar */
+    position: relative; /* Added to position the suggestions box correctly */
+    width: 100%; /* Ensure the search form takes full width */
+    max-width: 800px; /* Limit the maximum width for better aesthetics */
+    margin: 0 auto 40px auto; /* Center the search form and add bottom margin */
+}
+
+.search-form input[type="text"] {
+    width: 80%; /* Increased width to make the search bar significantly wider */
+    padding: 12px 20px; /* Increased padding for a more spacious look */
+    margin-right: 0; /* Removed right margin to align with the suggestions box */
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #ccc; /* Slightly darker border for a more professional appearance */
+    font-size: 16px; /* Increased font size for better readability */
+    box-sizing: border-box; /* Ensures padding is included in the width */
+    display: inline-block; /* Ensure the input is inline for alignment */
+}
+
+.search-form button {
+    padding: 12px 25px; /* Increased padding for better balance with the input field */
+    background-color: #6c5b7b;
+    color: #ffffff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    font-size: 16px; /* Increased font size to match the input field */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: inline-block; /* Ensure the button is inline for alignment */
+}
+
+.search-form button:hover {
+    background-color: #563d7c;
+}
+
+/* Suggestions Box Fix */
+.search-container {
+    position: relative; /* Relative positioning to align suggestions */
+    display: flex; /* Align input and button */
+    width: 100%; /* Make the container take full width */
+    max-width: 800px; /* Align with main search box */
+}
+
+#suggestions-box-container {
+    position: absolute;
+    top: 100%; /* Position right below input field */
+    left: 0; /* Align to the left edge of the container */
+    width: calc(100% - 100px); /* Match the input field width */
+    z-index: 1000;
+}
+
+#suggestions-box {
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-top: none;
+    width: 100%; /* Ensure it matches the parent width */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0 0 5px 5px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    box-sizing: border-box; /* Include padding in width */
+}
+
+#suggestions-box li {
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #333;
+}
+
+#suggestions-box li:hover {
+    background-color: #f8f9fa;
+    color: #6c5b7b;
+}
+
+
+/* Elegant Price Filter */
+.filters {
+    margin-bottom: 40px; /* Increased space below the filter for better layout */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 800px; /* Align with the search form's max width */
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    background-color: #6c5b7b; /* Matching the button background */
+    border-radius: 5px;
+    padding: 10px 15px; /* Balanced padding */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border: 1px solid #563d7c; /* Slightly darker border for consistency */
+    transition: box-shadow 0.3s ease;
+    color: #ffffff;
+}
+
+.filter-group:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.filter-group label {
+    margin-right: 10px; /* Space between label and dropdown */
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff; /* White text to match sidebar and buttons */
+}
+
+.filter-group select {
+    padding: 8px 12px;
+    border: none; /* Remove default border */
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #ffffff; /* Clean white background for the dropdown */
+    color: #333333; /* Dark text for contrast */
+    cursor: pointer;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.filter-group select:hover,
+.filter-group select:focus {
+    background-color: #f8f9fa; /* Light hover effect */
+    outline: none;
+}
+
+/* Content Cards */
+.results-container,
+.suggestions-container {
+    display: flex;
+    flex-direction: column; /* Cards are displayed vertically */
+    gap: 20px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.result-card,
+.suggestion-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.result-card:hover,
+.suggestion-card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.result-card img,
+.suggestion-card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.result-card strong,
+.suggestion-card strong {
+    font-size: 18px;
+    color: #333333;
+    margin-bottom: 5px;
+}
+
+.result-card p,
+.suggestion-card p {
+    font-size: 14px;
+    color: #666666;
+}
+
+.result-card a,
+.suggestion-card a {
+    text-decoration: none;
+    color: #6c5b7b;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.result-card a:hover,
+.suggestion-card a:hover {
+    color: #563d7c;
+}

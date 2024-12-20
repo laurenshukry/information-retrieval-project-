@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</head>
+<body>
+    <div class="layout">
+        <aside class="navbar">
+            <ul class="nav-categories">
+                <li><a href="/">Home</a></li>
+                <li><a href="/suggested">Suggested for You</a></li>
+            </ul>
+            <div class="filters">
+                <form action="/" method="get">
+                    <input type="hidden" name="query" value="{{ query }}">
+                    <div class="filter-group">
+                        <label for="price">Price:</label>
+                        <select id="price" name="price" onchange="this.form.submit()">
+                            <option value="" {% if not price_filter %}selected{% endif %}>All</option>
+                            <option value="low-high" {% if price_filter == 'low-high' %}selected{% endif %}>Low to High</option>
+                            <option value="high-low" {% if price_filter == 'high-low' %}selected{% endif %}>High to Low</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+        </aside>
+        
+        
+        <!-- Main Content -->
+        <main>
+            <header class="logo-container">
+                <img src="{{ url_for('static', filename='VELOURIA.png') }}" alt="Velouria Logo" class="logo">
+            </header>
+
+             <!-- search Content -->
+
+             <form action="/" method="get" class="search-form" autocomplete="off">
+                <div class="search-container">
+                    <input 
+                        type="text" 
+                        id="search-input" 
+                        name="query" 
+                        placeholder="Search for products..." 
+                        onkeyup="fetchSuggestions(this.value)"
+                    >
+                    <button type="submit">Search</button>
+                    <div id="suggestions-box-container">
+                        <ul id="suggestions-box" class="suggestions-box"></ul>
+                    </div>
+                </div>
+            </form>
+            
+            
+
+
+            <!-- Search Results -->
+     <!-- Search Results -->
+<div class="results-container">
+    {% if results %}
+        {% for item in results %}
+            <div class="result-card">
+                <img 
+                src="{{ item['image'] }}" 
+                alt="{{ item['name'] }}" 
+                class="item-image" 
+                data-placeholder="{{ url_for('static', filename='VELOURIA.png') }}"
+                onerror="this.onerror=null; this.src=this.dataset.placeholder;"
+            />
+            
+            
+            
+                <div class="item-details">
+                    <strong>{{ item['name'] }}</strong>
+                    <p>Price: {{ item['price'] }}</p>
+                    <a href="{{ item['url'] }}" target="_blank">View Product</a>
+                    <button data-name="{{ item['name'] }}" onclick="likeProduct(this.getAttribute('data-name'));">Like</button>
+                    <button data-name="{{ item['name'] }}" onclick="dislikeProduct(this.getAttribute('data-name'));">Dislike</button>
+                </div>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No results found for "{{ query }}".</p>
+    {% endif %}
+</div>
+3
+        </main>
+    </div>
+</body>
+</html>

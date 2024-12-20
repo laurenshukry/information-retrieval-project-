@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suggested for You</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="layout">
+        <!-- Navigation Bar -->
+        <aside class="navbar">
+            <ul class="nav-categories">
+                <li><a href="/">Home</a></li>
+                <li><a href="/suggested">Suggested for You</a></li>
+            </ul>
+        </aside>
+
+        <!-- Main Content -->
+        <main>
+            <header class="logo-container">
+                <img src="{{ url_for('static', filename='VELOURIA.png') }}" alt="Velouria Logo" class="logo">
+            </header>
+
+            <!-- Suggested Items -->
+            <div class="suggestions-container">
+                {% if suggestions %}
+                    {% for item in suggestions %}
+                        <div class="suggestion-card">
+                            <img 
+                                src="{{ item['Image'] }}" 
+                                alt="{{ item['Name'] }}" 
+                                class="item-image" 
+                                data-placeholder="{{ url_for('static', filename='VELOURIA.png') }}"
+                                onerror="this.onerror=null; this.src=this.dataset.placeholder;"
+                            >
+                            <div class="item-details">
+                                <strong>{{ item['Name'] }}</strong>
+                                <p>Price: {{ item['Price'] }}</p>
+                                <a href="{{ item['URL'] }}" target="_blank">View Product</a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>No suggestions available at this time.</p>
+                {% endif %}
+            </div>
+        </main>
+    </div>
+</body>
+</html>
